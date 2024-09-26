@@ -1,0 +1,23 @@
+html{
+    font-family: Poppins,'Segoe UI', sans-serif;
+    font-size: 12pt;
+    text-align: center;
+
+}
+
+body{
+    min-height: 100vh;
+    background-color: grey;
+    overflow: hidden;
+
+}
+.wrapper{
+
+}
+
+h1{
+    font-size: 3rem;
+text-transform: uppercase;
+font-weight: 900;
+ 
+}
